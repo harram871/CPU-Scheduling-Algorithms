@@ -97,6 +97,7 @@ Here `*` means the process was running, `.` means waiting/idle.
 ---
 
 ## Screenshots
+![image alt](https://github.com/harram871/CPU-Scheduling-Algorithms/blob/813422155bd15d1f400067a936b0f1081473f38a/screenshot%20no%201.PNG)
 
 
 
